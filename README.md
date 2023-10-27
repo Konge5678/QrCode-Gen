@@ -1,4 +1,6 @@
 # QrCode-Gen
 
-![Qr Code Generator (28 10 2023 00_30)](https://github.com/Konge5678/QrCode-Gen/assets/123541182/fe761bdd-bb6b-4fdc-82ed-73e476ec228b)
-![Qr Code Generator (28 10 2023 00_32)](https://github.com/Konge5678/QrCode-Gen/assets/123541182/e7e0e85b-d762-4d5f-b7ca-994beb678af0)
+![image](https://github.com/Konge5678/QrCode-Gen/assets/123541182/d702a496-95d6-46a9-afb7-53607f6c4a76)
+
+![image](https://github.com/Konge5678/QrCode-Gen/assets/123541182/3eda302d-5f95-4610-8eea-61bef717104c)
+
